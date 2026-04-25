@@ -1,0 +1,144 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://colossal.com",
+  "seed_origin": "https://colossal.com:443",
+  "seed_host": "colossal.com",
+  "final_url": "https://colossal.com/",
+  "final_host": "colossal.com",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-04-25T17:33:05.685897Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 11,
+    "total_asset_bytes": 251517
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 25,
+    "assets_included": 11,
+    "assets_excluded": 14
+  },
+  "excluded": [
+    {
+      "url": "blob:https://colossal.com/88a0c9ca-8307-4920-9ea5-f2b5f02ad53d",
+      "reason": "invalid_scheme"
+    },
+    {
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261366%26768%268%2624%261366%26768%260%26na&eci=3&event=%7B%7D&event_id=d17e1fd6-be01-45c4-9202-f52cba889ac5&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=010d6ffa-c79a-41cd-91f1-eec5fefb9ed2&pt=Solving%20the%20Colossal%20Problem%20of%20Extinction%20%7C%20Colossal&tw_document_href=https%3A%2F%2Fcolossal.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1777138320101.621165459880204025&txn_id=odfoi&type=javascript&version=2.3.53",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://player.vimeo.com/progressive_redirect/playback/596788151/rendition/720p/file.mp4?loc=external&signature=f04ba5fa6fb7eca2aafb9e84ba5ebb2f35c1a1afad565e5336ecf76dc1f3741c",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261366%26768%268%2624%261366%26768%260%26na&eci=3&event=%7B%7D&event_id=d17e1fd6-be01-45c4-9202-f52cba889ac5&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=010d6ffa-c79a-41cd-91f1-eec5fefb9ed2&pt=Solving%20the%20Colossal%20Problem%20of%20Extinction%20%7C%20Colossal&tw_document_href=https%3A%2F%2Fcolossal.com%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1777138320101.621165459880204025&txn_id=odfoi&type=javascript&version=2.3.53",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=1008426587451127&ev=PageView&noscript=1",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=1225714388215817&ev=PageView&noscript=1",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-J7S9821Q8Y",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-J7S9821Q8Y&cx=c&gtm=4e64m2",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NHFTFGV",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {
+    "https://colossal.com/favicon.ico": {
+      "local_path": "assets/31ade75b569d65ba63ac67ade56e46eff1af921e209eb42c866867fca5c42266.ico",
+      "content_type": "image/x-icon"
+    },
+    "https://colossal.com/wp-content/plugins/embedpress/assets/css/blocks.build.css?ver=1776835845": {
+      "local_path": "assets/2eac3d7eec0b037c18f70e4a716d3c2ef3bcc1e361a90ed18e9b1e18feaf10bd.css",
+      "content_type": "text/css"
+    },
+    "https://colossal.com/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=1776835845": {
+      "local_path": "assets/0a960f75f8a351386fcd85f3fc7ff7969864b34cb56133c1a3085e171e535ca6.css",
+      "content_type": "text/css"
+    },
+    "https://colossal.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.0": {
+      "local_path": "assets/99e9e0fa6fd509f9ceb45af00e2d4716687b9d67c0550ad2a1144a25b3750e69.css",
+      "content_type": "text/css"
+    },
+    "https://colossal.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.10.0": {
+      "local_path": "assets/a7fe83ec64bb23eb28090598db3d166ed98e52e39d1afbbfd74c579553f93e4e.css",
+      "content_type": "text/css"
+    },
+    "https://colossal.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.0": {
+      "local_path": "assets/33a215eb72b27ce9d5cc437e2b1431c4a44c86e00bcdf601c0f27577be88a891.css",
+      "content_type": "text/css"
+    },
+    "https://colossal.com/wp-content/themes/colossal/home.css?cache=1&ver=6.9.4": {
+      "local_path": "assets/862c0c224d57bb15c5a00d83631df98506c84a82f53408d0eb4d16839e744a47.css",
+      "content_type": "text/css"
+    },
+    "https://colossal.com/wp-content/themes/colossal/img/header-logo.png": {
+      "local_path": "assets/138a890455bdf418d1c8af3866e4472f06d4f4ec6e2b662a85dcb2cf8bb0d09d.webp",
+      "content_type": "image/webp"
+    },
+    "https://colossal.com/wp-content/themes/colossal/img/icon-un.webp": {
+      "local_path": "assets/c8b7ed22d16f7dc981822d257bd602c0cce004e1d82bf3f934a426e0fea0f583.webp",
+      "content_type": "image/webp"
+    },
+    "https://colossal.com/wp-content/themes/colossal/img/mark-beige.webp": {
+      "local_path": "assets/45b4d6f2a716f4d23b784228097497d0b0ea1b954a4d1bf5deabb33a729b2b2e.webp",
+      "content_type": "image/webp"
+    },
+    "https://colossal.com/wp-content/themes/colossal/img/species.webp": {
+      "local_path": "assets/c564e77f07c05692d65ec8b913c76f8539dd6faa3009bdffe094357eff175ccb.webp",
+      "content_type": "image/webp"
+    }
+  },
+  "heuristics": {
+    "script_src_count": 28,
+    "meaningful_elements": 261,
+    "text_content_length": 11330
+  }
+}
